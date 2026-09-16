@@ -15,7 +15,7 @@ I am a machine learning and deep learning practitioner and learner. I enjoy solv
 
 
 
-- 👨‍🎓 I am an undergraduate student with a passion for Machine Learning and Artificial Intelligence.
+- 👨‍🎓 M.S. Computer Science (Data Science) student | 🤖 Exploring Machine Learning, Deep Learning, NLP & AI | 🐍 Python | PyTorch | TensorFlow.
   
 - 🤝 I’m looking to collaborate on **open source AI/ML projects**
 
